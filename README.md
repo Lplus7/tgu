@@ -1,9 +1,9 @@
-![gif1mb](https://user-images.githubusercontent.com/115026663/205152788-06377e78-274c-4433-886b-9bdbfe940793.gif)
+![gif180mb](https://github.com/Lplus7/tgu/releases/download/v1.0.0/anigif.gif)
 
 # 💫 About Me:
 👨‍💻 Allow me to introduce myself! Please watch my introduction video!<br><br>🌱 I’m 24 yo and now currently learning Java QA Automation+SQL+API&Unit Testing<br><br>📫 How to reach me atom.vlg@bk.ru
 
-
+<img align="right" alt="testing" width="600" src="https://user-images.githubusercontent.com/115026663/205154992-66972b66-0dd7-4986-bb5e-e91783284ac7.gif">
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20329761) 
@@ -17,4 +17,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lplus7&icon=0&color=6)](https://visitcount.itsvg.in)
-<img align="right" alt="testing" width="600" src="https://github.com/Lplus7/tgu/releases/download/v1.0.0/anigif.gif">
+<img align="right" alt="testing2" width="600" src="https://github.com/Lplus7/tgu/releases/download/v1.0.0/anigif.gif">
