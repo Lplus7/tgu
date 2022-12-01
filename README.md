@@ -1,5 +1,5 @@
 ![gif22mb](https://github.com/Lplus7/tgu/releases/download/v1.0.0/anilow-57.gif)
-
+<img align="center" alt="gif22mb" width="800" src="https://github.com/Lplus7/tgu/releases/download/v1.0.0/anilow-57.gif">
 
 # 💫 About Me:
 <img align="right" alt="catways" width="300" src="https://user-images.githubusercontent.com/115026663/205154992-66972b66-0dd7-4986-bb5e-e91783284ac7.gif">
