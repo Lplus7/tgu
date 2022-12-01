@@ -1,4 +1,3 @@
-![gif22mb](https://github.com/Lplus7/tgu/releases/download/v1.0.0/anilow-57.gif)
 <img align="center" alt="gif22mb" width="1280" src="https://github.com/Lplus7/tgu/releases/download/v1.0.0/anilow-57.gif">
 
 # 💫 About Me:
