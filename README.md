@@ -3,7 +3,7 @@
 # 💫 About Me:
 👨‍💻 Allow me to introduce myself! Please watch my introduction video!<br><br>🌱 I’m 24 yo and now currently learning Java QA Automation+SQL+API&Unit Testing<br><br>📫 How to reach me atom.vlg@bk.ru
 
-<img align="right" alt="testing" width="600" src="https://user-images.githubusercontent.com/115026663/205154992-66972b66-0dd7-4986-bb5e-e91783284ac7.gif">
+<img align="right" alt="testing" width="400" src="https://user-images.githubusercontent.com/115026663/205154992-66972b66-0dd7-4986-bb5e-e91783284ac7.gif">
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20329761) 
