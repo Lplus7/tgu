@@ -1,5 +1,5 @@
 ![logo]()
-<a href="https://github.com/Lplus7/tgu/releases/download/v1.0.0/Thesis.defense.Testing.the.Bumbleby.platform.mp4" title="tipard movie">film name</a>
+<a href="https://github.com/Lplus7/tgu/releases/download/v1.0.0/Thesis.defense.Testing.the.Bumbleby.platform.mp4" title="video">film name</a>
 
 # 💫 About Me:
 👨‍💻 Allow me to introduce myself! Please watch my introduction video!<br><br>🌱 I’m 24 yo and now currently learning Java QA Automation+SQL+API&Unit Testing<br><br>📫 How to reach me atom.vlg@bk.ru
