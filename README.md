@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm L+7</h1>
 <h3 align="center">A passionate QA Engineer from Russia, Moscow</h3>
 
-- 🌱 I’m currently learning **QA Automation Java**
+- 🌱 I’m currently learning **Java QA Automation/SQL/API&Unit Testing**
 
-- 👨‍💻 All of my projects are available at [website.test](website.test)
+- 👨‍💻 Please, watch my introduction video
 
 - 📫 How to reach me **atom.vlg@bk.ru**
 
