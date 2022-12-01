@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍💻 Allow me to introduce myself! Please watch my introduction video!<br><br>🌱 I’m 24 yo and now currently learning Java QA Automation+SQL+API&Unit Testing<br><br>📫 How to reach me atom.vlg@bk.ru
 
-<img align="right" alt="testing width"400" src="https://github.com/Lplus7/tgu/releases/download/v1.0.0/anigif.gif">
+<img align="right" alt="testing" width="400" src="https://github.com/Lplus7/tgu/releases/download/v1.0.0/anigif.gif">
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20329761) 
