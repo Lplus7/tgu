@@ -1,7 +1,8 @@
 ![gif180mb](https://github.com/Lplus7/tgu/releases/download/v1.0.0/anigif.gif)
-<img align="right" alt="testing" width="300" src="https://user-images.githubusercontent.com/115026663/205154992-66972b66-0dd7-4986-bb5e-e91783284ac7.gif">
+
 
 # 💫 About Me:
+<img align="right" alt="testing" width="300" src="https://user-images.githubusercontent.com/115026663/205154992-66972b66-0dd7-4986-bb5e-e91783284ac7.gif">
 👨‍💻 Allow me to introduce myself! Please watch my introduction video!<br><br>🌱 I’m 24 yo and now currently learning Java QA Automation+SQL+API&Unit Testing<br><br>📫 How to reach me atom.vlg@bk.ru
 
 
