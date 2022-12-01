@@ -16,3 +16,18 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lplus7&icon=0&color=6)](https://visitcount.itsvg.in)
+
+
+# 💫 About Me:
+👨‍💻 Allow me to introduce myself! Please watch my full introduction video!<br>🌱 I’m 24 yo and now currently learning Java QA Automation+SQL+API&Unit Testing<br>📫 How to reach me atom.vlg@bk.ru
+
+
+## 🌐 Socials:
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20329761) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lplus7&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lplus7&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lplus7&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Lplus7&icon=0&color=0)](https://visitcount.itsvg.in)
