@@ -1,4 +1,5 @@
-<img align="right" alt="testing" width="600" src="https://github.com/Lplus7/tgu/releases/download/v1.0.0/anigif.gif">
+![gif1mb](https://user-images.githubusercontent.com/115026663/205152788-06377e78-274c-4433-886b-9bdbfe940793.gif)
+
 # 💫 About Me:
 👨‍💻 Allow me to introduce myself! Please watch my introduction video!<br><br>🌱 I’m 24 yo and now currently learning Java QA Automation+SQL+API&Unit Testing<br><br>📫 How to reach me atom.vlg@bk.ru
 
@@ -16,3 +17,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lplus7&icon=0&color=6)](https://visitcount.itsvg.in)
+<img align="right" alt="testing" width="600" src="https://github.com/Lplus7/tgu/releases/download/v1.0.0/anigif.gif">
