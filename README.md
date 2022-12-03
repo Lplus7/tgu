@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 👨‍💻 Allow me to introduce myself! Please watch my [full introduction video](https://github.com/Lplus7/tgu/releases/tag/v1.0.0)!<br><br>🌱 I’m 24 yo and now currently learning Java QA Automation +SQL +API +Unit Testing<br><br>📫 How to reach me atom.vlg@bk.ru
-<img align="center" alt="gif22mb" width="1280" src="https://github.com/Lplus7/tgu/releases/download/v1.0.0/anilow-57.gif">
+<a href="https://github.com/Lplus7/tgu/releases/tag/v1.0.0"><img align="center" alt="gif22mb" width="1280" src="https://github.com/Lplus7/tgu/releases/download/v1.0.0/anilow-57.gif"></a>
 
 ## 🌐 Socials:
 <img align="right" alt="catways" width="300" src="https://user-images.githubusercontent.com/115026663/205154992-66972b66-0dd7-4986-bb5e-e91783284ac7.gif"><br/>
@@ -17,3 +17,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lplus7&icon=0&color=6)](https://visitcount.itsvg.in)
+https://github.com/Lplus7/tgu/releases/tag/v1.0.0
