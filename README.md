@@ -17,4 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lplus7&icon=0&color=6)](https://visitcount.itsvg.in)
-https://github.com/Lplus7/tgu/releases/tag/v1.0.0
